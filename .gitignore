@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# Entornos
+.env
+
+# Archivos de NuGet
+*.nupkg
+packages/
